@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\bin\Debug\net6.0\dummy.exe
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\bin\Debug\net6.0\dummy.deps.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\bin\Debug\net6.0\dummy.runtimeconfig.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\bin\Debug\net6.0\dummy.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\bin\Debug\net6.0\dummy.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.AssemblyInfo.cs
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\refint\dummy.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\dummy.genruntimeconfig.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\dummy\obj\Debug\net6.0\ref\dummy.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\bin\Debug\net6.0\ex.exe
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\bin\Debug\net6.0\ex.deps.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\bin\Debug\net6.0\ex.runtimeconfig.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\bin\Debug\net6.0\ex.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\bin\Debug\net6.0\ex.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.AssemblyInfo.cs
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\refint\ex.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ex.genruntimeconfig.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\ex\obj\Debug\net6.0\ref\ex.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\bin\Debug\net6.0\lab2test.exe
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\bin\Debug\net6.0\lab2test.deps.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\bin\Debug\net6.0\lab2test.runtimeconfig.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\bin\Debug\net6.0\lab2test.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\bin\Debug\net6.0\lab2test.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.AssemblyInfo.cs
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\refint\lab2test.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\lab2test.genruntimeconfig.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab2test\obj\Debug\net6.0\ref\lab2test.dll

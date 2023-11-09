@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab5test", "lab5test.csproj", "{1551E476-0B48-472E-878D-A32D3AC994D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab5", "..\..\..\..\..\..\source\repos\oop-labs-2023-II-lab-5-Jafar1731\lab5\lab5.csproj", "{8B2E3D39-60E7-4119-B3DF-DE682D82527B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1551E476-0B48-472E-878D-A32D3AC994D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1551E476-0B48-472E-878D-A32D3AC994D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1551E476-0B48-472E-878D-A32D3AC994D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1551E476-0B48-472E-878D-A32D3AC994D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2E3D39-60E7-4119-B3DF-DE682D82527B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2E3D39-60E7-4119-B3DF-DE682D82527B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2E3D39-60E7-4119-B3DF-DE682D82527B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2E3D39-60E7-4119-B3DF-DE682D82527B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ACC6DCD-6410-4440-8EC3-3AB9AFF88EB3}
+	EndGlobalSection
+EndGlobal

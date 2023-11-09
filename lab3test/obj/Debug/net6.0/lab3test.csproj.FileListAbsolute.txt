@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.AssemblyInfo.cs
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\bin\Debug\net6.0\lab3test.exe
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\bin\Debug\net6.0\lab3test.deps.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\bin\Debug\net6.0\lab3test.runtimeconfig.json
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\bin\Debug\net6.0\lab3test.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\bin\Debug\net6.0\lab3test.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\refint\lab3test.dll
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.pdb
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\lab3test.genruntimeconfig.cache
+C:\Users\HP\Desktop\  \3 семестр\ООП\Labrab\lab3test\obj\Debug\net6.0\ref\lab3test.dll
